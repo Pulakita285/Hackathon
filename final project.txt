@@ -12,4 +12,10 @@ div {text-align: center;}
 <body style="background-color:grey" src="tiktaktoe.jfif">
 <Body background="https://www.imaginestemacademy.com/wp-content/uploads/2022/09/pacman-816x675.jpg">
        <h1  font-size: 99px>Gameoverse</h1>  
-    
+           <h3 >welcome to our gamming platform </h3>
+    <div>
+       <img src="https://cdn-icons-png.flaticon.com/512/566/566294.png" width="250" 
+     height="250"><br>
+       <a href="https://www.online-ide.com/ewF6975rYH"><button>TIC TAC TOE</button></a>
+    </div>
+<br>
