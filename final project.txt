@@ -19,3 +19,8 @@ div {text-align: center;}
        <a href="https://www.online-ide.com/ewF6975rYH"><button>TIC TAC TOE</button></a>
     </div>
 <br>
+<br><br><br><br>
+    <div>
+       <img src="https://storage.googleapis.com/replit/images/1661894502412_9e8600953df406f7a2501b9c29a84e04.jpeg" width="250" height="250"><br>
+       <a href="https://www.online-ide.com/RW8FvXKIJY"><button>SNAKE WATER GUN</button></a>
+    </div>
